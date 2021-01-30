@@ -6,6 +6,6 @@ Actually student of **Industrial Automation** & **System Analisys and Developmen
 - 📈 Actually working to improve my C#, .NET and ASP.NET habilities
 - 🎯 Searching for open source projects to colaborate
 
-![GitHub metrics](https://metrics.lecoq.io/raulbuffon)  
+![Metrics](https://metrics.lecoq.io/raulbuffon?template=classic&base.metadata=0&followup=1&languages=1&config.timezone=America%2FSao_Paulo&config.animated=true) 
 
 [My Linkedin](https://www.linkedin.com/in/raulbuffon/)
