@@ -8,4 +8,4 @@ Actually student of **Industrial Automation** & **System Analisys and Developmen
 
 ![Metrics](https://metrics.lecoq.io/raulbuffon?template=classic&base.metadata=0&followup=1&languages=1&config.timezone=America%2FSao_Paulo&config.animated=true) 
 
-[My Linkedin](https://www.linkedin.com/in/raulbuffon/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulbuffon/)](https://www.linkedin.com/in/raulbuffon/)
